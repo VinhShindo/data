@@ -3,103 +3,158 @@
     {
       "id": 1,
       "question": "Chon dap an dung 1+1 = ?",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 2,
       "question": "Chon dap an dung 2 + 1 = ?",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 3,
       "question": "Chon dap an dung 1 + 3 = ?",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 4,
       "question": "Chon dap an dung 5",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 5,
       "question": "Chon dap an dung 6",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 6,
       "question": "Chon dap an dung 7",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 7,
       "question": "Chon dap an dung 8",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 8,
       "question": "Chon dap an dung 9",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 9,
       "question": "Chon dap an dung 10",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 10,
       "question": "Chon dap an dung 11",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     },
     {
       "id": 11,
       "question": "Chon dap an dung 12",
-      "answers": ["1", "2", "3", "4"]
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
     }
   ],
-  "results" : [
-  {
-    "quiz_id": 1,
-    "answer": "area",
-  },
-  {
-    "quiz_id": 3,
-    "answer": "reach",
-  },
-  {
-    "quiz_id": 2,
-    "answer": "guide",
-  },
-  {
-    "quiz_id": 4,
-    "answer": "season",
-  },
-  {
-    "quiz_id": 5,
-    "answer": "book",
-  },
-  {
-    "quiz_id": 6,
-    "answer": "voyage",
-  },
-  {
-    "quiz_id": 7,
-    "answer": "fee",
-  },
-  {
-    "quiz_id": 8,
-    "answer": "staying",
-  },
-  {
-    "quiz_id": 9,
-    "answer": "official",
-  },
-  {
-    "quiz_id": 10,
-    "answer": "dialect",
-  },
-  {
-    "quiz_id": 11,
-    "answer": "dialect",
-  },
-],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "area"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "reach"
+    },
+    {
+      "quiz_id": 2,
+      "answer": "guide"
+    },
+    {
+      "quiz_id": 4,
+      "answer": "season"
+    },
+    {
+      "quiz_id": 5,
+      "answer": "book"
+    },
+    {
+      "quiz_id": 6,
+      "answer": "voyage"
+    },
+    {
+      "quiz_id": 7,
+      "answer": "fee"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "staying"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "official"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "dialect"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "dialect"
+    }
+  ]
 }
