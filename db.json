@@ -56,7 +56,7 @@
       "answers": ["1", "2", "3", "4"]
     }
   ],
-  "results" = [
+  "results" : [
   {
     "quiz_id": 1,
     "answer": "area",
@@ -101,5 +101,5 @@
     "quiz_id": 11,
     "answer": "dialect",
   },
-]
+],
 }
