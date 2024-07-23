@@ -55,5 +55,51 @@
       "question": "Chon dap an dung 12",
       "answers": ["1", "2", "3", "4"]
     }
-  ]
+  ],
+  "results" = [
+  {
+    "quiz_id": 1,
+    "answer": "area",
+  },
+  {
+    "quiz_id": 3,
+    "answer": "reach",
+  },
+  {
+    "quiz_id": 2,
+    "answer": "guide",
+  },
+  {
+    "quiz_id": 4,
+    "answer": "season",
+  },
+  {
+    "quiz_id": 5,
+    "answer": "book",
+  },
+  {
+    "quiz_id": 6,
+    "answer": "voyage",
+  },
+  {
+    "quiz_id": 7,
+    "answer": "fee",
+  },
+  {
+    "quiz_id": 8,
+    "answer": "staying",
+  },
+  {
+    "quiz_id": 9,
+    "answer": "official",
+  },
+  {
+    "quiz_id": 10,
+    "answer": "dialect",
+  },
+  {
+    "quiz_id": 11,
+    "answer": "dialect",
+  },
+]
 }
