@@ -114,47 +114,47 @@
   "results": [
     {
       "quiz_id": 1,
-      "answer": "area"
-    },
-    {
-      "quiz_id": 3,
-      "answer": "reach"
+      "answer": "1"
     },
     {
       "quiz_id": 2,
-      "answer": "guide"
+      "answer": "2"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "3"
     },
     {
       "quiz_id": 4,
-      "answer": "season"
+      "answer": "4"
     },
     {
       "quiz_id": 5,
-      "answer": "book"
+      "answer": "1"
     },
     {
       "quiz_id": 6,
-      "answer": "voyage"
+      "answer": "1"
     },
     {
       "quiz_id": 7,
-      "answer": "fee"
+      "answer": "1"
     },
     {
       "quiz_id": 8,
-      "answer": "staying"
+      "answer": "1"
     },
     {
       "quiz_id": 9,
-      "answer": "official"
+      "answer": "1"
     },
     {
       "quiz_id": 10,
-      "answer": "dialect"
+      "answer": "1"
     },
     {
       "quiz_id": 11,
-      "answer": "dialect"
+      "answer": "1"
     }
   ]
 }
