@@ -1,160 +1,160 @@
 {
-  "quizz": [
-    {
-      "id": 1,
-      "question": "Chon dap an dung 1+1 = ?",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 2,
-      "question": "Chon dap an dung 2 + 1 = ?",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Chon dap an dung 1 + 3 = ?",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Chon dap an dung 5",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Chon dap an dung 6",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Chon dap an dung 7",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Chon dap an dung 8",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 8,
-      "question": "Chon dap an dung 9",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Chon dap an dung 10",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 10,
-      "question": "Chon dap an dung 11",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    {
-      "id": 11,
-      "question": "Chon dap an dung 12",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ]
-    }
-  ],
-  "results": [
-    {
-      "quiz_id": 1,
-      "answer": "1"
-    },
-    {
-      "quiz_id": 2,
-      "answer": "2"
-    },
-    {
-      "quiz_id": 3,
-      "answer": "3"
-    },
-    {
-      "quiz_id": 4,
-      "answer": "4"
-    },
-    {
-      "quiz_id": 5,
-      "answer": "1"
-    },
-    {
-      "quiz_id": 6,
-      "answer": "1"
-    },
-    {
-      "quiz_id": 7,
-      "answer": "1"
-    },
-    {
-      "quiz_id": 8,
-      "answer": "1"
-    },
-    {
-      "quiz_id": 9,
-      "answer": "1"
-    },
-    {
-      "quiz_id": 10,
-      "answer": "1"
-    },
-    {
-      "quiz_id": 11,
-      "answer": "1"
-    }
-  ]
-}
+    "quizz": [
+      {
+        "id": 1,
+        "question": "I’ve just passed my driving test!Now I must save money for a car. Then no more walking to the train station in the morning!<br>How will the person probably go to work tomorrow?",
+        "answers": [
+          "by train",
+          "by car",
+          "on foot",
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Road closed because of roadworks. Monday 28 September – Thursday 1 October. Use Broad Street.",
+        "answers": [
+          "You can use the road only during these dates.",
+          "Broad Street is closed during these dates.",
+          "You can use Broad Street during these dates.",
+          ""
+        ]
+      },
+      {
+        "id": 3,
+        "question": "SPECIAL OFFER! All laptops over £500 come with a free printer. Offer ends Friday!",
+        "answers": [
+          "All laptops come with a free printer.",
+          "All laptops in the shop cost more than £500.",
+          "If you spend more than £500 on a laptop, you get a printer.",
+          ""
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Dance class finishes at 17: 30, not 17.00 tomorrow so don’t wait for me outside the library. I’ll meet you at the cinema instead. <br>Where do they usually meet?",
+        "answers": [
+          "at the dance class",
+          "outside the library",
+          "at the cinema",
+          ""
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Choose your seat when you book online or before your flight for your 10% discount.",
+        "answers": [
+          "You must choose your seat before you get on your flight.",
+          "If you choose your seat in advance, you pay less.",
+          "You pay less when you book a flight online.",
+          ""
+        ]
+      },
+      {
+        "id": 6,
+        "question": "To: Josh<br>From: Mum<br>Anna phoned. She forgot to tell you – the concert is the 6th, not 5th. Let her know if you can go.",
+        "answers": [
+          "Josh didn’t know that the date of the concert had changed.",
+          "Anna has forgotten what date the concert is on.",
+          "Anna needs to tell Josh what day the concert is on.",
+          "4    "
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Chon dap an dung 8",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Chon dap an dung 9",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": 9,
+        "question": "Chon dap an dung 10",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": 10,
+        "question": "Chon dap an dung 11",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": 11,
+        "question": "Chon dap an dung 12",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      }
+    ],
+    "results": [
+      {
+        "quiz_id": 1,
+        "answer": "by train"
+      },
+      {
+        "quiz_id": 2,
+        "answer": "You can use Broad Street during these dates."
+      },
+      {
+        "quiz_id": 3,
+        "answer": "If you spend more than £500 on a laptop, you get a printer."
+      },
+      {
+        "quiz_id": 4,
+        "answer": "outside the library"
+      },
+      {
+        "quiz_id": 5,
+        "answer": "If you choose your seat in advance, you pay less."
+      },
+      {
+        "quiz_id": 6,
+        "answer": "Josh didn’t know that the date of the concert had changed."
+      },
+      {
+        "quiz_id": 7,
+        "answer": "1"
+      },
+      {
+        "quiz_id": 8,
+        "answer": "1"
+      },
+      {
+        "quiz_id": 9,
+        "answer": "1"
+      },
+      {
+        "quiz_id": 10,
+        "answer": "1"
+      },
+      {
+        "quiz_id": 11,
+        "answer": "1"
+      }
+    ]
+  }
