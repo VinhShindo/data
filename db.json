@@ -2,7 +2,7 @@
     "quizz": [
       {
         "id": 1,
-        "question": "I’ve just passed my driving test!Now I must save money for a car. Then no more walking to the train station in the morning!<br>How will the person probably go to work tomorrow?",
+        "question": "I’ve just passed my driving test!Now I must save money for a car. Then no more walking to the train station in the morning! \n How will the person probably go to work tomorrow?",
         "answers": [
           "by train",
           "by car",
