@@ -1,160 +1,497 @@
+// test 2
 {
-    "quizz": [
-      {
-        "id": 1,
-        "question": "I’ve just passed my driving test!Now I must save money for a car. Then no more walking to the train station in the morning! \n How will the person probably go to work tomorrow?",
-        "answers": [
-          "by train",
-          "by car",
-          "on foot",
-          ""
-        ]
-      },
-      {
-        "id": 2,
-        "question": "Road closed because of roadworks. Monday 28 September – Thursday 1 October. Use Broad Street.",
-        "answers": [
-          "You can use the road only during these dates.",
-          "Broad Street is closed during these dates.",
-          "You can use Broad Street during these dates.",
-          ""
-        ]
-      },
-      {
-        "id": 3,
-        "question": "SPECIAL OFFER! All laptops over £500 come with a free printer. Offer ends Friday!",
-        "answers": [
-          "All laptops come with a free printer.",
-          "All laptops in the shop cost more than £500.",
-          "If you spend more than £500 on a laptop, you get a printer.",
-          ""
-        ]
-      },
-      {
-        "id": 4,
-        "question": "Dance class finishes at 17: 30, not 17.00 tomorrow so don’t wait for me outside the library. I’ll meet you at the cinema instead. <br>Where do they usually meet?",
-        "answers": [
-          "at the dance class",
-          "outside the library",
-          "at the cinema",
-          ""
-        ]
-      },
-      {
-        "id": 5,
-        "question": "Choose your seat when you book online or before your flight for your 10% discount.",
-        "answers": [
-          "You must choose your seat before you get on your flight.",
-          "If you choose your seat in advance, you pay less.",
-          "You pay less when you book a flight online.",
-          ""
-        ]
-      },
-      {
-        "id": 6,
-        "question": "To: Josh<br>From: Mum<br>Anna phoned. She forgot to tell you – the concert is the 6th, not 5th. Let her know if you can go.",
-        "answers": [
-          "Josh didn’t know that the date of the concert had changed.",
-          "Anna has forgotten what date the concert is on.",
-          "Anna needs to tell Josh what day the concert is on.",
-          "4    "
-        ]
-      },
-      {
-        "id": 7,
-        "question": "Chon dap an dung 8",
-        "answers": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ]
-      },
-      {
-        "id": 8,
-        "question": "Chon dap an dung 9",
-        "answers": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ]
-      },
-      {
-        "id": 9,
-        "question": "Chon dap an dung 10",
-        "answers": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ]
-      },
-      {
-        "id": 10,
-        "question": "Chon dap an dung 11",
-        "answers": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ]
-      },
-      {
-        "id": 11,
-        "question": "Chon dap an dung 12",
-        "answers": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ]
-      }
-    ],
-    "results": [
-      {
-        "quiz_id": 1,
-        "answer": "by train"
-      },
-      {
-        "quiz_id": 2,
-        "answer": "You can use Broad Street during these dates."
-      },
-      {
-        "quiz_id": 3,
-        "answer": "If you spend more than £500 on a laptop, you get a printer."
-      },
-      {
-        "quiz_id": 4,
-        "answer": "outside the library"
-      },
-      {
-        "quiz_id": 5,
-        "answer": "If you choose your seat in advance, you pay less."
-      },
-      {
-        "quiz_id": 6,
-        "answer": "Josh didn’t know that the date of the concert had changed."
-      },
-      {
-        "quiz_id": 7,
-        "answer": "1"
-      },
-      {
-        "quiz_id": 8,
-        "answer": "1"
-      },
-      {
-        "quiz_id": 9,
-        "answer": "1"
-      },
-      {
-        "quiz_id": 10,
-        "answer": "1"
-      },
-      {
-        "quiz_id": 11,
-        "answer": "1"
-      }
-    ]
-  }
+  "quizz": [
+    {
+      "id": 1,
+      "question": "Chon dap an dung 1+1 = ?",
+      "answers": [
+        "The cost of renting the house is more than £750 per month",
+        "You can’t live in the house if you have a dog or a cat",
+        "You must be quiet to rent this house",
+        "4"
+      ]
+    }
+    {
+      "id": 2,
+      "question": "Chon dap an dung 2 + 1 = ?",
+      "answers": [
+        "Jerry wants Maisy to give him a lift to the garage",
+        "Jerry wants Maisy to help him take his car to the garag",
+        "The garage wants Maisy to pick Jerry up",
+        "4"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Chon dap an dung 1 + 3 = ?",
+      "answers": [
+        "After Tuesday, sports equipment and sports clothing will be cheaper",
+        "You can save more on a basketball than on basketball shoes",
+        "On Tuesday, sports equipment and clothing will be more expensive",
+        "4"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Chon dap an dung 5",
+      "answers": [
+        "The shop is closed and there is more information on another choice",
+        "The shop is closed because the owner is in the hospital",
+        "The shop is closed and they will give more information in the future",
+        "4"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Chon dap an dung 6",
+      "answers": [
+        "It’s not possible to buy tickets on the bus",
+        "Tourists must book both trips at 9.00 a.m",
+        "Each sightseeing trip takes two hours",
+        "4"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Chon dap an dung 7",
+      "answers": [
+        "Matilda couldn’t work on Saturday",
+        "Rod wants Timothy to have a day off",
+        "Rod wants Matilda to work instead of Timothy",
+        "4"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Chon dap an dung 8",
+      "answers": [
+        "You should pay for cinema parking in the shopping centre",
+        "People who want to see a film must drive to the shopping centre cinema",
+        "Cinema visitors should use a different car park",
+        "4"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Chon dap an dung 9",
+      "answers": [
+        "to ask Ollie what time they need to do something",
+        "to thank Ollie for doing something for him",
+        "to explain to Ollie why he has done something",
+        "4"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who says a place is good if you like outdoor sports? ",
+      "answers": [
+        "Nikos",
+        "Rami",
+        "Marcus",
+        "4"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Who says there are things to do at night time?  1",
+      "answers": [
+        "Nikos",
+        "Rami",
+        "Marcus",
+        "4"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Who says a place is not for people who like swimming?",
+      "answers": [
+        "Nikos",
+        "Rami",
+        "Marcus",
+        "4"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Who likes a place because it is rarely cold there?",
+      "answers": [
+        "Nikos",
+        "Rami",
+        "Marcus",
+        "4"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Who doesn’t have a home in the countryside?",
+      "answers": [
+        "Nikos",
+        "Rami",
+        "Marcus",
+        "4"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Who says a place isn’t noisy??",
+      "answers": [
+        "Nikos",
+        "Rami",
+        "Marcus",
+        "4"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Who lives near a number of other villages?",
+      "answers": [
+        "Nikos",
+        "Rami",
+        "Marcus",
+        "4"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Frances",
+      "answers": [
+        "Frances",
+        "has just started school",
+        "isn’t old enough to go to school",
+        "4"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "On the telephone, Frances",
+      "answers": [
+        "told the emergency services where she lived",
+        "told the emergency services that she needed an ambulance",
+        "told the emergency services that her mother was in bed",
+        "4"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Lisa",
+      "answers": [
+        "didn’t stay in hospital",
+        "stayed in hospital for one night",
+        "went to hospital but returned home that night",
+        "4"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Liam thinks",
+      "answers": [
+        "Lisa might have died",
+        "Lisa should start thinking more quickly",
+        "Lisa should be careful around the house",
+        "4"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Frances",
+      "answers": [
+        "has two brothers",
+        "already has a brother",
+        "is going to have a brother soon",
+        "4"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "AAAAA",
+      "answers": [
+        "kept",
+        "changed",
+        "moved",
+        "4"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "aaaaa",
+      "answers": [
+        "trouble",
+        "problem",
+        "danger",
+        "4"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "eeeee",
+      "answers": [
+        "won",
+        "made",
+        "took",
+        "4"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "?",
+      "answers": [
+        "became",
+        "played",
+        "joined",
+        "4"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "rrrrr?",
+      "answers": [
+        "tour",
+        "guide",
+        "concert",
+        "4"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "wwwwww",
+      "answers": [
+        "at",
+        "near",
+        "next",
+        "4"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "ttttt",
+      "answers": [
+        "away",
+        "off",
+        "out",
+        "4"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "yyyyy",
+      "answers": [
+        "one",
+        "an",
+        "a",
+        "4"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "uuuuuuuu",
+      "answers": [
+        "keeps",
+        "keep",
+        "kept",
+        "4"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "xxxxxx",
+      "answers": [
+        "the",
+        "their",
+        "its",
+        "4"
+      ]
+    },
+    {
+      "id": 31,
+      "question": "nnnnnn?",
+      "answers": [
+        "since",
+        "during",
+        "for",
+        "4"
+      ]
+    },
+    {
+      "id": 32,
+      "question": "hhhhh",
+      "answers": [
+        "few",
+        "little",
+        "any",
+        "4"
+      ]
+    },
+    {
+      "id": 33,
+      "question": "vvvvvv",
+      "answers": [
+        "were",
+        "was",
+        "did",
+        "4"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "zzzzzzz",
+      "answers": [
+        "anything",
+        "something",
+        "nothing",
+        "4"
+      ]
+    },
+    {
+      "id": 35,
+      "question": "eeeeee?",
+      "answers": [
+        "after",
+        "because",
+        "when",
+        "4"
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "You can’t live in the house if you have a dog or a cat"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "Jerry wants Maisy to give him a lift to the garage"
+    },
+    {
+      "quiz_id": 2,
+      "answer": "You can save more on a basketball than on basketball shoes"
+    },
+    {
+      "quiz_id": 4,
+      "answer": "The shop is closed and they will give more information in the future"
+    },
+    {
+      "quiz_id": 5,
+      "answer": "It’s not possible to buy tickets on the bus"
+    },
+    {
+      "quiz_id": 6,
+      "answer": "Rod wants Matilda to work instead of Timothy"
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Cinema visitors should use a different car park"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "to explain to Ollie why he has done something"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Marcus"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Rami"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Nikos"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Rami"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Rami"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "Marcus"
+    },
+    {
+      "quiz_id": 15,
+      "answer": "Nikos "
+    },
+    {
+      "quiz_id": 16,
+      "answer": "isn’t old enough to go to school"
+    },
+    {
+      "quiz_id": 17,
+      "answer": "told the emergency services where she lived"
+    },
+    {
+      "quiz_id": 18,
+      "answer": "stayed in hospital for one night"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "Lisa might have died"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "is going to have a brother soon"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "moved"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "trouble"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "made"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "joined"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "tour"
+    },
+    {
+      "quiz_id": 26,
+      "answer": "near"
+    },
+    {
+      "quiz_id": 27,
+      "answer": "out"
+    },
+    {
+      "quiz_id": 28,
+      "answer": "an"
+    },
+    {
+      "quiz_id": 29,
+      "answer": "keeps"
+    },
+    {
+      "quiz_id": 30,
+      "answer": "its"
+    },
+    {
+      "quiz_id": 31,
+      "answer": "during"
+    },
+    {
+      "quiz_id": 32,
+      "answer": "few"
+    },
+    {
+      "quiz_id": 33,
+      "answer": "was"
+    },
+    {
+      "quiz_id": 34,
+      "answer": "anything"
+    },
+    {
+      "quiz_id": 35,
+      "answer": "because"
+    }
+  ]
+}
