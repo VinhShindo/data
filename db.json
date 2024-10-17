@@ -1,353 +1,352 @@
-// test 2
 {
   "quizz": [
     {
       "id": 1,
-      "question": "Chon dap an dung 1+1 = ?",
+      "question": "Chloe wants Susie",
       "answers": [
-        "The cost of renting the house is more than £750 per month",
-        "You can’t live in the house if you have a dog or a cat",
-        "You must be quiet to rent this house",
+        "to clean her room.",
+        "to stop working at home.",
+        "to tidy up the living room.",
         "4"
       ]
-    }
+    },
     {
       "id": 2,
-      "question": "Chon dap an dung 2 + 1 = ?",
+      "question": "What is the message asking students to do?",
       "answers": [
-        "Jerry wants Maisy to give him a lift to the garage",
-        "Jerry wants Maisy to help him take his car to the garag",
-        "The garage wants Maisy to pick Jerry up",
+        "help keep the kitchen tidy at all times",
+        "let the cleaners know when the kitchen’s free",
+        "stay out of the kitchen when the cleaners are there",
         "4"
       ]
     },
     {
       "id": 3,
-      "question": "Chon dap an dung 1 + 3 = ?",
+      "question": "What does Anna want Pete to do?",
       "answers": [
-        "After Tuesday, sports equipment and sports clothing will be cheaper",
-        "You can save more on a basketball than on basketball shoes",
-        "On Tuesday, sports equipment and clothing will be more expensive",
+        "order a taxi to pick her up from the station",
+        "text her when he gets to the station",
+        "give her a lift from the station",
         "4"
       ]
     },
     {
       "id": 4,
-      "question": "Chon dap an dung 5",
+      "question": "",
       "answers": [
-        "The shop is closed and there is more information on another choice",
-        "The shop is closed because the owner is in the hospital",
-        "The shop is closed and they will give more information in the future",
+        "New students should go to Reception before they collect their books.",
+        "Course books will be available at Reception for students.",
+        "Teachers will meet the new students at Reception.",
         "4"
       ]
     },
     {
       "id": 5,
-      "question": "Chon dap an dung 6",
+      "question": "",
       "answers": [
-        "It’s not possible to buy tickets on the bus",
-        "Tourists must book both trips at 9.00 a.m",
-        "Each sightseeing trip takes two hours",
+        "This flat is in a new building",
+        "This flat is ready to move into.",
+        "This flat is too small for two people.",
         "4"
       ]
     },
     {
       "id": 6,
-      "question": "Chon dap an dung 7",
+      "question": "Why did Gemma contact Simon?",
       "answers": [
-        "Matilda couldn’t work on Saturday",
-        "Rod wants Timothy to have a day off",
-        "Rod wants Matilda to work instead of Timothy",
+        "to tell him about a book she liked ",
+        "to ask him to return her book",
+        "to offer to lend him a book",
         "4"
       ]
     },
     {
       "id": 7,
-      "question": "Chon dap an dung 8",
+      "question": "",
       "answers": [
-        "You should pay for cinema parking in the shopping centre",
-        "People who want to see a film must drive to the shopping centre cinema",
-        "Cinema visitors should use a different car park",
+        "You can order this meal at any time",
+        "This café serves only healthy food.",
+        "It’s cheaper to eat here at less busy times",
         "4"
       ]
     },
     {
       "id": 8,
-      "question": "Chon dap an dung 9",
+      "question": "",
       "answers": [
-        "to ask Ollie what time they need to do something",
-        "to thank Ollie for doing something for him",
-        "to explain to Ollie why he has done something",
+        "Ted’s mum has already eaten this evening",
+        "Ted’s mum plans to prepare a light meal later.",
+        "Ted’s mum is cooking dinner before Lucy’s dance class.",
         "4"
       ]
     },
     {
       "id": 9,
-      "question": "Who says a place is good if you like outdoor sports? ",
+      "question": "Who started dancing before he had lessons?",
       "answers": [
-        "Nikos",
-        "Rami",
-        "Marcus",
+        "Paul",
+        "Mark",
+        "Samuel",
         "4"
       ]
     },
     {
       "id": 10,
-      "question": "Who says there are things to do at night time?  1",
+      "question": "Who didn’t start dancing because of a family member?",
       "answers": [
-        "Nikos",
-        "Rami",
-        "Marcus",
+        "Paul",
+        "Mark",
+        "Samuel",
         "4"
       ]
     },
     {
       "id": 11,
-      "question": "Who says a place is not for people who like swimming?",
+      "question": "Who didn’t enjoy dancing at first?",
       "answers": [
-        "Nikos",
-        "Rami",
-        "Marcus",
+        "Paul",
+        "Mark",
+        "Samuel",
         "4"
       ]
     },
     {
       "id": 12,
-      "question": "Who likes a place because it is rarely cold there?",
+      "question": "Who already has successful career as a dancer?",
       "answers": [
-        "Nikos",
-        "Rami",
-        "Marcus",
+        "Paul",
+        "Mark",
+        "Samuel",
         "4"
       ]
     },
     {
       "id": 13,
-      "question": "Who doesn’t have a home in the countryside?",
+      "question": "Who couldn’t continue dancing because he had a problem?",
       "answers": [
-        "Nikos",
-        "Rami",
-        "Marcus",
+       "Paul",
+        "Mark",
+        "Samuel",
         "4"
       ]
     },
     {
       "id": 14,
-      "question": "Who says a place isn’t noisy??",
+      "question": "Who studied two kinds of dance?",
       "answers": [
-        "Nikos",
-        "Rami",
-        "Marcus",
+       "Paul",
+        "Mark",
+        "Samuel",
         "4"
       ]
     },
     {
       "id": 15,
-      "question": "Who lives near a number of other villages?",
+      "question": "Who stopped doing a sport when he started dancing?",
       "answers": [
-        "Nikos",
-        "Rami",
-        "Marcus",
+        "Paul",
+        "Mark",
+        "Samuel",
         "4"
       ]
     },
     {
       "id": 16,
-      "question": "Frances",
+      "question": "What do we learn about Jack in the first paragraph?",
       "answers": [
-        "Frances",
-        "has just started school",
-        "isn’t old enough to go to school",
+        "He was the only person at school to play the violin.",
+        "He learned to play on an instrument that he borrowed",
+        "He enjoyed playing the violin as soon as he started learning",
         "4"
       ]
     },
     {
       "id": 17,
-      "question": "On the telephone, Frances",
+      "question": "What is the writer doing in the second paragraph?",
       "answers": [
-        "told the emergency services where she lived",
-        "told the emergency services that she needed an ambulance",
-        "told the emergency services that her mother was in bed",
+        "explaining why Jack thought some music was easy to play.",
+        "saying why only a few people liked the music Jack played.",
+        "describing how Jack changed the kind of music he played.",
         "4"
       ]
     },
     {
       "id": 18,
-      "question": "Lisa",
+      "question": "What does Jack say about Ocean Blue?",
       "answers": [
-        "didn’t stay in hospital",
-        "stayed in hospital for one night",
-        "went to hospital but returned home that night",
+        "Nobody in the band liked travelling far to play in a concert.",
+        "The band members were interested in different kinds of music",
+        "Everyone wanted to stay friends when the band became successful",
         "4"
       ]
     },
     {
       "id": 19,
-      "question": "Liam thinks",
+      "question": "Why does Jack think he is lucky?",
       "answers": [
-        "Lisa might have died",
-        "Lisa should start thinking more quickly",
-        "Lisa should be careful around the house",
+        "He meets lots of people.",
+        "He loves what he does.",
+        "He has an unusual career.",
         "4"
       ]
     },
     {
       "id": 20,
-      "question": "Frances",
+      "question": "Jack thinks it is a good idea",
       "answers": [
-        "has two brothers",
-        "already has a brother",
-        "is going to have a brother soon",
+        " to keep some things that people used in the past.",
+        "might open on Thursday or Friday.",
+        "to teach more people to play an instrument.",
         "4"
       ]
     },
     {
       "id": 21,
-      "question": "AAAAA",
+      "question": "",
       "answers": [
-        "kept",
-        "changed",
-        "moved",
+        " thought",
+        "said",
+        " decided",
         "4"
       ]
     },
     {
       "id": 22,
-      "question": "aaaaa",
+      "question": "",
       "answers": [
-        "trouble",
-        "problem",
-        "danger",
+        "year",
+        "day",
+        "time",
         "4"
       ]
     },
     {
       "id": 23,
-      "question": "eeeee",
+      "question": "",
       "answers": [
-        "won",
-        "made",
-        "took",
+        " members",
+        "crowds",
+        "visitors ",
         "4"
       ]
     },
     {
       "id": 24,
-      "question": "?",
+      "question": "",
       "answers": [
-        "became",
-        "played",
-        "joined",
+        "idea",
+        "answer",
+        "fact",
         "4"
       ]
     },
     {
       "id": 25,
-      "question": "rrrrr?",
+      "question": "",
       "answers": [
-        "tour",
-        "guide",
-        "concert",
+        "stayed",
+        "took",
+        "made",
         "4"
       ]
     },
     {
       "id": 26,
-      "question": "wwwwww",
+      "question": "",
       "answers": [
-        "at",
-        "near",
-        "next",
+        "had",
+        "has",
+        "have",
         "4"
       ]
     },
     {
       "id": 27,
-      "question": "ttttt",
+      "question": "",
       "answers": [
-        "away",
-        "off",
-        "out",
+        "can",
+        "shall",
+        "do",
         "4"
       ]
     },
     {
       "id": 28,
-      "question": "yyyyy",
+      "question": "",
       "answers": [
-        "one",
-        "an",
-        "a",
+        "until",
+        "when",
+        "during",
         "4"
       ]
     },
     {
-      "id": 9,
-      "question": "uuuuuuuu",
+      "id": 29,
+      "question": "",
       "answers": [
-        "keeps",
-        "keep",
-        "kept",
+        "best",
+        "better",
+        "good ",
         "4"
       ]
     },
     {
       "id": 30,
-      "question": "xxxxxx",
+      "question": "",
       "answers": [
-        "the",
-        "their",
-        "its",
+        "final",
+        "end ",
+        "top",
         "4"
       ]
     },
     {
       "id": 31,
-      "question": "nnnnnn?",
+      "question": "",
       "answers": [
-        "since",
-        "during",
-        "for",
+        "by",
+        "knows",
+        "know",
         "4"
       ]
     },
     {
       "id": 32,
-      "question": "hhhhh",
+      "question": "",
       "answers": [
-        "few",
-        "little",
-        "any",
+        "on",
+        "in",
+        "at",
         "4"
       ]
     },
     {
       "id": 33,
-      "question": "vvvvvv",
+      "question": "",
       "answers": [
-        "were",
-        "was",
-        "did",
+        "also",
+        "too",
+        "or",
         "4"
       ]
     },
     {
       "id": 34,
-      "question": "zzzzzzz",
+      "question": "",
       "answers": [
-        "anything",
-        "something",
-        "nothing",
+        "see",
+        "saw",
+        "seen",
         "4"
       ]
     },
     {
       "id": 35,
-      "question": "eeeeee?",
+      "question": "",
       "answers": [
-        "after",
-        "because",
-        "when",
+        "never",
+        "not",
+        "on",
         "4"
       ]
     }
@@ -355,143 +354,143 @@
   "results": [
     {
       "quiz_id": 1,
-      "answer": "You can’t live in the house if you have a dog or a cat"
-    },
-    {
-      "quiz_id": 3,
-      "answer": "Jerry wants Maisy to give him a lift to the garage"
+      "answer": " to tidy up the living room."
     },
     {
       "quiz_id": 2,
-      "answer": "You can save more on a basketball than on basketball shoes"
+      "answer": "help keep the kitchen tidy at all times"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "give her a lift from the station"
     },
     {
       "quiz_id": 4,
-      "answer": "The shop is closed and they will give more information in the future"
+      "answer": "give her a lift from the station"
     },
     {
       "quiz_id": 5,
-      "answer": "It’s not possible to buy tickets on the bus"
+      "answer": "This flat is ready to move into"
     },
     {
       "quiz_id": 6,
-      "answer": "Rod wants Matilda to work instead of Timothy"
+      "answer": " to ask him to return her book"
     },
     {
       "quiz_id": 7,
-      "answer": "Cinema visitors should use a different car park"
+      "answer": "You can order this meal at any time."
     },
     {
       "quiz_id": 8,
-      "answer": "to explain to Ollie why he has done something"
+      "answer": "Ted’s mum plans to prepare a light meal later."
     },
     {
       "quiz_id": 9,
-      "answer": "Marcus"
+      "answer": "Mark"
     },
     {
       "quiz_id": 10,
-      "answer": "Rami"
+      "answer": "Samuel"
     },
     {
       "quiz_id": 11,
-      "answer": "Nikos"
+      "answer": "Paul"
     },
     {
       "quiz_id": 12,
-      "answer": "Rami"
+      "answer": "Samuel"
     },
     {
       "quiz_id": 13,
-      "answer": "Rami"
+      "answer": "Paul"
     },
     {
       "quiz_id": 14,
-      "answer": "Marcus"
+      "answer": "Paul"
     },
     {
       "quiz_id": 15,
-      "answer": "Nikos "
+      "answer": "Samuel"
     },
     {
       "quiz_id": 16,
-      "answer": "isn’t old enough to go to school"
+      "answer": " He learned to play on an instrument that he borrowed."
     },
     {
       "quiz_id": 17,
-      "answer": "told the emergency services where she lived"
+      "answer": "describing how Jack changed the kind of music he played."
     },
     {
       "quiz_id": 18,
-      "answer": "stayed in hospital for one night"
+      "answer": "Everyone wanted to stay friends when the band became successful"
     },
     {
       "quiz_id": 19,
-      "answer": "Lisa might have died"
+      "answer": "He loves what he does."
     },
     {
       "quiz_id": 20,
-      "answer": "is going to have a brother soon"
+      "answer": " to keep some things that people used in the past."
     },
     {
       "quiz_id": 21,
-      "answer": "moved"
+      "answer": "decided"
     },
     {
       "quiz_id": 22,
-      "answer": "trouble"
+      "answer": "time"
     },
     {
       "quiz_id": 23,
-      "answer": "made"
+      "answer": "crowds"
     },
     {
       "quiz_id": 24,
-      "answer": "joined"
+      "answer": "idea"
     },
     {
       "quiz_id": 25,
-      "answer": "tour"
+      "answer": "took"
     },
     {
       "quiz_id": 26,
-      "answer": "near"
+      "answer": "have"
     },
     {
       "quiz_id": 27,
-      "answer": "out"
+      "answer": "can"
     },
     {
       "quiz_id": 28,
-      "answer": "an"
+      "answer": "when"
     },
     {
       "quiz_id": 29,
-      "answer": "keeps"
+      "answer": "better"
     },
     {
       "quiz_id": 30,
-      "answer": "its"
+      "answer": "end "
     },
     {
       "quiz_id": 31,
-      "answer": "during"
+      "answer": "by"
     },
     {
       "quiz_id": 32,
-      "answer": "few"
+      "answer": "in"
     },
     {
       "quiz_id": 33,
-      "answer": "was"
+      "answer": "or"
     },
     {
       "quiz_id": 34,
-      "answer": "anything"
+      "answer": "see"
     },
     {
       "quiz_id": 35,
-      "answer": "because"
+      "answer": "not"
     }
   ]
 }
