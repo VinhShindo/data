@@ -2,495 +2,356 @@
   "quizz": [
     {
       "id": 1,
-      "question": "Chloe wants Susie",
+      "question": "City Library\nReading Competition:\nStarts at 9 a.m.\nFinishes at 12 p.m.\nOpen to all students aged between 10 and 17 years old",
       "answers": [
-        "to clean her room.",
-        "to stop working at home.",
-        "to tidy up the living room.",
-        "4"
+        "The library is open for three hours.",
+        "Students of all ages can take part in the competition.",
+        "Adults can't take part in the competition.",
+        ""
       ]
     },
     {
       "id": 2,
-      "question": "What is the message asking students to do?",
+      "question": "Hi James, Today you can buy two meals for the price of one in the new fast food restaurant. I know that you finish work at 8. Shall we go at 8:30 p.m.? Emma",
       "answers": [
-        "help keep the kitchen tidy at all times",
-        "let the cleaners know when the kitchen’s free",
-        "stay out of the kitchen when the cleaners are there",
-        "4"
+        "Emma knows that James can't go out before 8 p.m.",
+        "Emma and James will both have a free meal today.",
+        "Emma wants to meet James in the morning.",
+        ""
       ]
     },
     {
       "id": 3,
-      "question": "What does Anna want Pete to do?",
+      "question": "Train Timetable Changes No buses on Saturday and Sunday. There will be two trains an hour for the extra people. Only Platform One will be used this weeekend.",
       "answers": [
-        "order a taxi to pick her up from the station",
-        "text her when he gets to the station",
-        "give her a lift from the station",
-        "4"
+        "More passengers prefer the train than the bus.",
+        "One platform cannot be used.",
+        "Buses will stop running at the weekend.",
+        ""
       ]
     },
     {
       "id": 4,
-      "question": "",
+      "question": "Anna, Please can you tell the teacher I will be late because I missed the bus? I'll wait for the next one and not walk. Jim",
       "answers": [
-        "New students should go to Reception before they collect their books.",
-        "Course books will be available at Reception for students.",
-        "Teachers will meet the new students at Reception.",
-        "4"
+        "Jim will wait for Anna to take the next bus.",
+        "Jim wants Anna to tell the teacher about his delay.",
+        "JJim tells Anna that he will go to school on foot.",
+        ""
       ]
     },
     {
       "id": 5,
-      "question": "",
+      "question": "Sweet Shop All chocolate: 50% off Fruit Sweets: £1 for 1kg, or £1.50 for 2kg Special prices: Monday to Wednesday only",
       "answers": [
-        "This flat is in a new building",
-        "This flat is ready to move into.",
-        "This flat is too small for two people.",
-        "4"
+        "The offer is available all week.",
+        "2 kilograms of sweets cost £1.50 more than 1 kilogram.",
+        "You can buy chocolate at half its usual price.",
+        ""
       ]
     },
     {
       "id": 6,
-      "question": "Why did Gemma contact Simon?",
+      "question": "Susan, I lost my school bag with all my books. Our neighbour found it and returned it, but my home- work is still at school. It wasn't in the bag. Marina",
       "answers": [
-        "to tell him about a book she liked ",
-        "to ask him to return her book",
-        "to offer to lend him a book",
-        "4"
+        "to ask Susan to help her find her school bag",
+        "to tell Susan what happened to her",
+        "to tell Susan that she has done her homework",
+        ""
       ]
     },
     {
       "id": 7,
-      "question": "",
+      "question": "Who says their hobby makes them money?",
       "answers": [
-        "You can order this meal at any time",
-        "This café serves only healthy food.",
-        "It’s cheaper to eat here at less busy times",
-        "4"
+        "Greg",
+        "Susie",
+        "Alex",
+        ""
       ]
     },
     {
       "id": 8,
-      "question": "",
+      "question": "Who plans to stop their hobby soon?",
       "answers": [
-        "Ted’s mum has already eaten this evening",
-        "Ted’s mum plans to prepare a light meal later.",
-        "Ted’s mum is cooking dinner before Lucy’s dance class.",
-        "4"
+        "Greg",
+        "Susie",
+        "Alex",
+        ""
       ]
     },
     {
       "id": 9,
-      "question": "Who started dancing before he had lessons?",
+      "question": " Who has just started doing their hobby?",
       "answers": [
-        "Paul",
-        "Mark",
-        "Samuel",
-        "4"
+        "Greg",
+        "Susie",
+        "Alex",
+        ""
       ]
     },
     {
       "id": 10,
-      "question": "Who didn’t start dancing because of a family member?",
+      "question": "Who does their hobby with someone in their family?",
       "answers": [
-        "Paul",
-        "Mark",
-        "Samuel",
-        "4"
+        "Greg",
+        "Susie",
+        "Alex",
+        ""
       ]
     },
     {
       "id": 11,
-      "question": "Who didn’t enjoy dancing at first?",
+      "question": "Who pays a lot of money to do their hobby?",
       "answers": [
-        "Paul",
-        "Mark",
-        "Samuel",
-        "4"
+        "Greg",
+        "Susie",
+        "Alex",
+        ""
       ]
     },
     {
       "id": 12,
-      "question": "Who already has successful career as a dancer?",
+      "question": "Who says their hobby makes them healthier?",
       "answers": [
-        "Paul",
-        "Mark",
-        "Samuel",
-        "4"
+        "Greg",
+        "Susie",
+        "Alex",
+        ""
       ]
     },
     {
       "id": 13,
-      "question": "Who couldn’t continue dancing because he had a problem?",
+      "question": "Who says their hobby helps them with school work?",
       "answers": [
-       "Paul",
-        "Mark",
-        "Samuel",
-        "4"
+        "Greg",
+        "Susie",
+        "Alex",
+        ""
       ]
     },
     {
       "id": 14,
-      "question": "Who studied two kinds of dance?",
+      "question": "What did Tanya's parents hope she would do?",
       "answers": [
-       "Paul",
-        "Mark",
-        "Samuel",
-        "4"
+        "become an actor",
+        "get a job in a university",
+        "Chave a job that would make her rich",
+        ""
       ]
     },
     {
       "id": 15,
-      "question": "Who stopped doing a sport when he started dancing?",
+      "question": "Tanya had her first acting lessons",
       "answers": [
-        "Paul",
-        "Mark",
-        "Samuel",
-        "4"
+        "from her mother.",
+        "with a friend.",
+        "at her primary school.",
+        ""
       ]
     },
     {
-      "id": 16,
-      "question": "What do we learn about Jack in the first paragraph?",
+      "id": 16 ,
+      "question": "Mrs Burton told Tanya",
       "answers": [
-        "He was the only person at school to play the violin.",
-        "He learned to play on an instrument that he borrowed",
-        "He enjoyed playing the violin as soon as he started learning",
-        "4"
+        "to believe in herself because she is good.",
+        "that she will never become a good actor.",
+        "that she should only be an actor if her parents agree.",
+        ""
       ]
     },
     {
       "id": 17,
-      "question": "What is the writer doing in the second paragraph?",
+      "question": "Tanya's father",
       "answers": [
-        "explaining why Jack thought some music was easy to play.",
-        "saying why only a few people liked the music Jack played.",
-        "describing how Jack changed the kind of music he played.",
-        "4"
+        "made her feel bad about having acting lessons.",
+        "made her change her plans.",
+        "made her feel happy about her decision.",
+        ""
       ]
     },
     {
       "id": 18,
-      "question": "What does Jack say about Ocean Blue?",
+      "question": "What does Tanya say about her family now?",
       "answers": [
-        "Nobody in the band liked travelling far to play in a concert.",
-        "The band members were interested in different kinds of music",
-        "Everyone wanted to stay friends when the band became successful",
-        "4"
+        "They don't think she is a good actor.",
+        "They are angry that they were wrong.",
+        "They are pleased that she did what she wanted to do.",
+        ""
       ]
     },
     {
       "id": 19,
-      "question": "Why does Jack think he is lucky?",
+      "question": "The Olympic Games Every four years, 200 or more countries send their best athletes to (19).........part in the Olympic Games. Millions of people from all around the world (20) ir best at the Olympic Games on television. The Olympic Games began more than 2,000 years (11........... The modern Olympics began in Athens, Greece, in 1896. The number of sports played at the Olympics (2) from year to year. Some of the most popular Summer Olympic sports are swimming, cycling, volleyball and horse riding. The Winter Olympic sports include ice hockey, (23)............... and ski jumping. Personal and team (24)................is the most important part of the Olympics. There is no prize money.",
       "answers": [
-        "He meets lots of people.",
-        "He loves what he does.",
-        "He has an unusual career.",
-        "4"
+        "try",
+        "take",
+        "turn",
+        ""
       ]
     },
     {
       "id": 20,
-      "question": "Jack thinks it is a good idea",
+      "question": "The Olympic Games Every four years, 200 or more countries send their best athletes to (19).........part in the Olympic Games. Millions of people from all around the world (20) ir best at the Olympic Games on television. The Olympic Games began more than 2,000 years (11........... The modern Olympics began in Athens, Greece, in 1896. The number of sports played at the Olympics (2) from year to year. Some of the most popular Summer Olympic sports are swimming, cycling, volleyball and horse riding. The Winter Olympic sports include ice hockey, (23)............... and ski jumping. Personal and team (24)................is the most important part of the Olympics. There is no prize money.",
       "answers": [
-        " to keep some things that people used in the past.",
-        "might open on Thursday or Friday.",
-        "to teach more people to play an instrument.",
-        "4"
+        "watch",
+        "visit",
+        "look",
+        ""
       ]
     },
     {
       "id": 21,
-      "question": "",
+      "question": "The Olympic Games Every four years, 200 or more countries send their best athletes to (19).........part in the Olympic Games. Millions of people from all around the world (20) ir best at the Olympic Games on television. The Olympic Games began more than 2,000 years (11........... The modern Olympics began in Athens, Greece, in 1896. The number of sports played at the Olympics (2) from year to year. Some of the most popular Summer Olympic sports are swimming, cycling, volleyball and horse riding. The Winter Olympic sports include ice hockey, (23)............... and ski jumping.  Personal and team (24)................is the most important part of the Olympics. There is no prize money.",
       "answers": [
-        " thought",
-        "said",
-        " decided",
-        "4"
+        "since",
+        "ago",
+        "past",
+        ""
       ]
     },
     {
       "id": 22,
-      "question": "",
+      "question": "The Olympic Games Every four years, 200 or more countries send their best athletes to (19).........part in the Olympic Games. Millions of people from all around the world (20) ir best at the Olympic Games on television. The Olympic Games began more than 2,000 years (11........... The modern Olympics began in Athens, Greece, in 1896. The number of sports played at the Olympics (2) from year to year. Some of the most popular Summer Olympic sports are swimming, cycling, volleyball and horse riding. The Winter Olympic sports include ice hockey, (23)............... and ski jumping. Personal and team (24)................is the most important part of the Olympics. There is no prize money.",
       "answers": [
-        "year",
-        "day",
-        "time",
-        "4"
+        "becomes",
+        "improves",
+        "changes",
+        ""
       ]
     },
     {
       "id": 23,
-      "question": "",
+      "question": "The Olympic Games Every four years, 200 or more countries send their best athletes to (19).........part in the Olympic Games. Millions of people from all around the world (20) ir best at the Olympic Games on television. The Olympic Games began more than 2,000 years (11........... The modern Olympics began in Athens, Greece, in 1896. The number of sports played at the Olympics (2) from year to year. Some of the most popular Summer Olympic sports are swimming, cycling, volleyball and horse riding. The Winter Olympic sports include ice hockey, (23)............... and ski jumping. Personal and team (24)................is the most important part of the Olympics. There is no prize money.",
       "answers": [
-        " members",
-        "crowds",
-        "visitors ",
-        "4"
+        "windsurfing",
+        "snowboarding",
+        "sailing",
+        ""
       ]
     },
     {
       "id": 24,
-      "question": "",
+      "question": "The Olympic Games Every four years, 200 or more countries send their best athletes to (19).........part in the Olympic Games. Millions of people from all around the world (20) ir best at the Olympic Games on television. The Olympic Games began more than 2,000 years (11........... The modern Olympics began in Athens, Greece, in 1896. The number of sports played at the Olympics (2) from year to year. Some of the most popular Summer Olympic sports are swimming, cycling, volleyball and horse riding. The Winter Olympic sports include ice hockey, (23)............... and ski jumping. Personal and team (24)................is the most important part of the Olympics. There is no prize money.",
       "answers": [
-        "idea",
-        "answer",
-        "fact",
-        "4"
+        "business",
+        "rest",
+        "success",
+        ""
       ]
     },
     {
       "id": 25,
-      "question": "",
+      "question": "I'm on holiday with (0) my parents in Bali. The weather is great. I'm (25) __________ to play beach volleyball later. It is really nice here. The hotel is big and it (26) __________ to play beach got a large swimming pool.\nI have taken (27) __________ of photographs which I will show you when I return home. It's such (28) __________ shame you couldn't come with us. I think you'll like this place (29) __________ well.\nWish you were (30) __________.\nLove,\nJohn",
       "answers": [
-        "stayed",
-        "took",
-        "made",
-        "4"
-      ]
-    },
-    {
-      "id": 26,
-      "question": "",
-      "answers": [
-        "had",
+        "going",
         "has",
-        "have",
-        "4"
-      ]
-    },
-    {
-      "id": 27,
-      "question": "",
-      "answers": [
-        "can",
-        "shall",
-        "do",
-        "4"
-      ]
-    },
-    {
-      "id": 28,
-      "question": "",
-      "answers": [
-        "until",
-        "when",
-        "during",
-        "4"
-      ]
-    },
-    {
-      "id": 29,
-      "question": "",
-      "answers": [
-        "best",
-        "better",
-        "good ",
-        "4"
-      ]
-    },
-    {
-      "id": 30,
-      "question": "",
-      "answers": [
-        "final",
-        "end ",
-        "top",
-        "4"
-      ]
-    },
-    {
-      "id": 31,
-      "question": "",
-      "answers": [
-        "by",
-        "knows",
-        "know",
-        "4"
-      ]
-    },
-    {
-      "id": 32,
-      "question": "",
-      "answers": [
-        "on",
-        "in",
-        "at",
-        "4"
-      ]
-    },
-    {
-      "id": 33,
-      "question": "",
-      "answers": [
-        "also",
-        "too",
-        "or",
-        "4"
-      ]
-    },
-    {
-      "id": 34,
-      "question": "",
-      "answers": [
-        "see",
-        "saw",
-        "seen",
-        "4"
-      ]
-    },
-    {
-      "id": 35,
-      "question": "",
-      "answers": [
-        "never",
-        "not",
-        "on",
-        "4"
+        "lots",
+        "a"
       ]
     }
   ],
+
   "results": [
     {
       "quiz_id": 1,
-      "answer": " to tidy up the living room."
+      "answer": "Adults can't take part in the competition."
     },
     {
       "quiz_id": 2,
-      "answer": "help keep the kitchen tidy at all times"
+      "answer": "Emma knows that James can't go out before 8 p.m."
     },
     {
       "quiz_id": 3,
-      "answer": "give her a lift from the station"
+      "answer": "Buses will stop running at the weekend."
     },
     {
       "quiz_id": 4,
-      "answer": "give her a lift from the station"
+      "answer": "Jim wants Anna to tell the teacher about his delay."
     },
     {
       "quiz_id": 5,
-      "answer": "This flat is ready to move into"
+      "answer": "You can buy chocolate at half its usual price."
     },
     {
       "quiz_id": 6,
-      "answer": " to ask him to return her book"
+      "answer": "to tell Susan what happened to her"
     },
     {
       "quiz_id": 7,
-      "answer": "You can order this meal at any time."
+      "answer": "Susie"
     },
     {
       "quiz_id": 8,
-      "answer": "Ted’s mum plans to prepare a light meal later."
+      "answer": "Alex"
     },
     {
       "quiz_id": 9,
-      "answer": "Mark"
+      "answer": "Susie"
     },
     {
       "quiz_id": 10,
-      "answer": "Samuel"
+      "answer": "Greg"
     },
     {
       "quiz_id": 11,
-      "answer": "Paul"
+      "answer": "Alex"
     },
     {
       "quiz_id": 12,
-      "answer": "Samuel"
+      "answer": "Susie"
     },
     {
       "quiz_id": 13,
-      "answer": "Paul"
+      "answer": "Greg"
     },
     {
       "quiz_id": 14,
-      "answer": "Paul"
+      "answer": "Chave a job that would make her rich"
     },
     {
       "quiz_id": 15,
-      "answer": "Samuel"
+      "answer": "with a friend."
     },
     {
       "quiz_id": 16,
-      "answer": " He learned to play on an instrument that he borrowed."
+      "answer": "that she will never become a good actor."
     },
     {
       "quiz_id": 17,
-      "answer": "describing how Jack changed the kind of music he played."
+      "answer": "made her feel bad about having acting lessons."
     },
     {
       "quiz_id": 18,
-      "answer": "Everyone wanted to stay friends when the band became successful"
+      "answer": "They are pleased that she did what she wanted to do."
     },
     {
       "quiz_id": 19,
-      "answer": "He loves what he does."
+      "answer": "take"
     },
     {
       "quiz_id": 20,
-      "answer": " to keep some things that people used in the past."
+      "answer": "watch"
     },
     {
       "quiz_id": 21,
-      "answer": "decided"
+      "answer": "ago"
     },
     {
       "quiz_id": 22,
-      "answer": "time"
+      "answer": "becomes"
     },
     {
       "quiz_id": 23,
-      "answer": "crowds"
+      "answer": "snowboarding"
     },
     {
       "quiz_id": 24,
-      "answer": "idea"
+      "answer": "success"
     },
     {
       "quiz_id": 25,
-      "answer": "took"
-    },
-    {
-      "quiz_id": 26,
-      "answer": "have"
-    },
-    {
-      "quiz_id": 27,
-      "answer": "can"
-    },
-    {
-      "quiz_id": 28,
-      "answer": "when"
-    },
-    {
-      "quiz_id": 29,
-      "answer": "better"
-    },
-    {
-      "quiz_id": 30,
-      "answer": "end "
-    },
-    {
-      "quiz_id": 31,
-      "answer": "by"
-    },
-    {
-      "quiz_id": 32,
-      "answer": "in"
-    },
-    {
-      "quiz_id": 33,
-      "answer": "or"
-    },
-    {
-      "quiz_id": 34,
-      "answer": "see"
-    },
-    {
-      "quiz_id": 35,
-      "answer": "not"
+      "answer": "going,has,lots,a,as,here"
     }
   ]
 }
